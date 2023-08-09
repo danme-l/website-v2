@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/danme-l/website-v2-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/danme-l/website-v2-backend.git
+[submodule "dataEng"]
+	path = dataEng
+	url = https://github.com/danme-l/website-v2-dataEng.git
